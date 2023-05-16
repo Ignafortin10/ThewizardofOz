@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="g^i|;=lbh3[5wTX[gs8!">Player</variable><variable type="KIND_SpriteKind" id="cHEX01!Wlfeu%6%Gnh%z">Projectile</variable><variable type="KIND_SpriteKind" id="{.WMx=Cf*oU^Y9@c*glu">Food</variable><variable type="KIND_SpriteKind" id="dY0f;/%Nf[NZ05RNX*bU">Enemy</variable><variable id="=@1tAbEfCbQBNk~3f*:f">mySprite</variable></variables><block type="pxt-on-start" id="HEJ@f0Cv.lM]4K[b$-;W" x="30" y="70"><statement name="HANDLER"><block type="spritesetvel" id="x]$1Tm]|cs1u%;%W:/|G"><value name="sprite"><block type="variables_get" id="jm;rKB?p[kV=PDpqD?S$"><field name="VAR" id="=@1tAbEfCbQBNk~3f*:f">mySprite</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="`K|%%H@uR)tfhgHq)o=_"><field name="speed">50</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="U=O]{}}som7Tjp~S6u6D"><field name="speed">50</field></shadow></value></block></statement></block></xml>
